@@ -14,20 +14,20 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/vscode.png" />
-<img align="left" alt="HTML5" width="26px" src="./icons/html5.png" />
-<img align="left" alt="CSS3" width="26px" src="./icons/css3.png" />
-<img align="left" alt="Sass" width="26px" src="./icons/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="./icons/javascript.png" />
-<img align="left" alt="RTL" width="26px" src="./icons/typescript.png" />
-<img align="left" alt="React" width="26px" src="./icons/react.png" />
-<img align="left" alt="React" width="26px" src="./icons/react-native.png" />
-<img align="left" alt="Redux" width="26px" src="./icons/redux.png" />
-<img align="left" alt="Jest" width="26px" src="./icons/jest.png" />
-<img align="left" alt="Git" width="26px" src="./icons/git.png" />
-<img align="left" alt="Git" width="26px" src="./icons/python.png" />
-<img align="left" alt="GitHub" width="26px" src="./icons/github.png" />
-<img align="left" alt="Terminal" width="26px" src="./icons/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/vscode.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/html5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/css3.png" />
+<img align="left" alt="Sass" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/javascript.png" />
+<img align="left" alt="RTL" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/typescript.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react-native.png" />
+<img align="left" alt="Redux" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/redux.png" />
+<img align="left" alt="Jest" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/jest.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/git.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/python.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/terminal.png" />
 
 <br />
 
