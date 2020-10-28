@@ -7,10 +7,23 @@
 - 🧔🏽 I'm 25 years old, brazilian living in Belo Horizonte
 - 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
 - 👯 I’m looking for job opportunities as a software developer
-- ⚡ Currently also taking 2 intensive courses on Computer Science:
+- ⚡ Currently also taking 1 intensive course on Computer Science:
 
-1. [Harvard's CS50](https://cs50.harvard.edu/x/2020/)
 2. [Rocketseat's Go Stack](https://rocketseat.com.br/)
+
+### Graduation & Awards
+
+<ul>
+  <li style="display: flex; align-items: center;">
+    <img alt="ufmg" width="20px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/ufmg.png" />
+    <p>Chemical Engineering at Universidade Federal de Minas Gerais (UFMG). Overall grade: 76% [2014-2019]</p>
+  </li>
+  <li style="display: flex; align-items: center;">
+    <img alt="ufmg" width="20px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/harvard.png" />
+    <p>Harvard's CS50. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/CS50" target="_blank" rel="noreferrer">here</a></p>
+  </li>
+</ul>
+
 
 ### Languages and Tools
 
@@ -19,11 +32,13 @@
 <img align="left" alt="CSS3" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/css3.png" />
 <img align="left" alt="Sass" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/javascript.png" />
-<img align="left" alt="RTL" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/typescript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react-native.png" />
+<img align="left" alt="React-Native" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react-native.png" />
 <img align="left" alt="Redux" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/redux.png" />
 <img align="left" alt="Jest" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/jest.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/sql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/mondodb.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/git.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/python.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
