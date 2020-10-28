@@ -15,11 +15,11 @@
 
 <ul>
   <li>
-    <img alt="ufmg" width="20px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/ufmg.png" />
+    <img alt="ufmg" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/ufmg.png" />
     <span>Chemical Engineering at Universidade Federal de Minas Gerais (UFMG). Overall grade: 76% [2014-2019]</span>
   </li>
   <li>
-    <img alt="ufmg" width="20px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/harvard.png" />
+    <img alt="ufmg" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/harvard.png" />
     <span>Harvard's CS50. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/CS50" target="_blank" rel="noreferrer">here</a></span>
   </li>
 </ul>
@@ -38,7 +38,7 @@
 <img align="left" alt="Redux" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/redux.png" />
 <img align="left" alt="Jest" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/jest.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/mondodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/git.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/python.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
