@@ -9,7 +9,7 @@
 - 👯 I’m looking for job opportunities as a software developer
 - ⚡ Currently also taking 1 intensive course on Computer Science:
 
-2. [Rocketseat's Go Stack](https://rocketseat.com.br/)
+1. [Rocketseat's Go Stack](https://rocketseat.com.br/)
 
 ### Graduation & Awards
 
@@ -48,7 +48,7 @@
 
 ### Contact Me!
 
-[<img align="left" alt="Daniel L. Miranda | LinkedIn" width="22px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/linkedin.png" />](https://www.linkedin.com/in/fabio-senra-correa//)
-[<img align="left" alt="Daniel L. Miranda | Email" width="22px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/gmail.png" />](mailto:fabiosenracorrea@gmail.com)
+[<img align="left" alt="Fábio S. Corrêa | LinkedIn" width="22px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/linkedin.png" />](https://www.linkedin.com/in/fabio-senra-correa//)
+[<img align="left" alt="Fábio S. Corrêa | Email" width="22px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/gmail.png" />](mailto:fabiosenracorrea@gmail.com)
 
 <br />
