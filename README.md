@@ -14,13 +14,13 @@
 ### Graduation & Awards
 
 <ul>
-  <li style="display: flex; align-items: center;">
+  <li>
     <img alt="ufmg" width="20px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/ufmg.png" />
-    <p>Chemical Engineering at Universidade Federal de Minas Gerais (UFMG). Overall grade: 76% [2014-2019]</p>
+    <p style="display: inline;">Chemical Engineering at Universidade Federal de Minas Gerais (UFMG). Overall grade: 76% [2014-2019]</p>
   </li>
-  <li style="display: flex; align-items: center;">
+  <li>
     <img alt="ufmg" width="20px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/harvard.png" />
-    <p>Harvard's CS50. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/CS50" target="_blank" rel="noreferrer">here</a></p>
+    <p style="display: inline;">Harvard's CS50. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/CS50" target="_blank" rel="noreferrer">here</a></p>
   </li>
 </ul>
 
