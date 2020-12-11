@@ -22,7 +22,7 @@
   </li>
   <li>
     <img alt="ufmg" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/rockseat.jpeg" />
-    <span>Rocketseat's <a href="https://rocketseat.com.br/">GoStack</a>. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/CS50" target="_blank" rel="noreferrer">here</a></span>
+    <span>Rocketseat's <a href="https://rocketseat.com.br/">GoStack</a>. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/Rocketseat_go_stack" target="_blank" rel="noreferrer">here</a></span>
   </li>
 </ul>
 
