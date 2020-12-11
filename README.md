@@ -7,9 +7,7 @@
 - 🧔🏽 I'm 25 years old, brazilian living in Belo Horizonte
 - 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
 - 👯 I’m looking for job opportunities as a software developer
-- ⚡ Currently also taking 1 intensive course on Computer Science:
-
-1. [Rocketseat's Go Stack](https://rocketseat.com.br/)
+- ⚡ Fast learner, advocate of **Clean Code**, **SOLID** practices and **Agile Development**
 
 ### Graduation & Awards
 
@@ -20,7 +18,11 @@
   </li>
   <li>
     <img alt="ufmg" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/harvard.png" />
-    <span>Harvard's CS50. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/CS50" target="_blank" rel="noreferrer">here</a></span>
+    <span>Harvard's <a href="https://cs50.harvard.edu/x/2020/">CS50</a>. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/CS50" target="_blank" rel="noreferrer">here</a></span>
+  </li>
+  <li>
+    <img alt="ufmg" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/rockseat.jpeg" />
+    <span>Rocketseat's <a href="https://rocketseat.com.br/">GoStack</a>. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/CS50" target="_blank" rel="noreferrer">here</a></span>
   </li>
 </ul>
 
