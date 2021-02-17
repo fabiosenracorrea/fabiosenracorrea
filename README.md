@@ -6,7 +6,7 @@
 
 - 🧔🏽 I'm 25 years old, brazilian living in Belo Horizonte
 - 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
-- 👯 I’m looking for job opportunities as a software developer
+- 👨🏻‍💻 Currently working as a Full Stack Developer at [Offerwise](https://www.offerwise.com/)
 - ⚡ Fast learner, advocate of **Clean Code**, **SOLID** practices and **Agile Development**
 
 ### Graduation & Awards
