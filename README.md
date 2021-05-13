@@ -50,7 +50,7 @@
 
 ### Contact Me!
 
-[<img align="left" alt="Fábio S. Corrêa | LinkedIn" width="22px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/linkedin.png" />](https://www.linkedin.com/in/fabio-senra-correa//)
+[<img align="left" alt="Fábio S. Corrêa | LinkedIn" width="22px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/linkedin.png" />](https://www.linkedin.com/in/fabiosenracorrea/)
 [<img align="left" alt="Fábio S. Corrêa | Email" width="22px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/gmail.png" />](mailto:fabiosenracorrea@gmail.com)
 
 <br />
