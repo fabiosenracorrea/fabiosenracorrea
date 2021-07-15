@@ -4,9 +4,9 @@
 
 ### About me
 
-- 🧔🏽 I'm 25 years old, brazilian living in Belo Horizonte
-- 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
-- 👯 I’m looking for job opportunities as a software developer
+- 🧔🏽 I'm 26 years old, brazilian living in Belo Horizonte
+- 🌱 I’m currently studying to because a Certified [AWS](https://www.betrybe.com/) developer
+- 👯 I’m currently a Full Stack developer at @offerwise
 - ⚡ Fast learner, advocate of **Clean Code**, **SOLID** practices and **Agile Development**
 
 ### Graduation & Awards
@@ -23,6 +23,10 @@
   <li>
     <img alt="rocketseat" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/rocketseat.jpeg" />
     <span>Rocketseat's <a href="https://rocketseat.com.br/">GoStack</a>. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/Rocketseat_go_stack" target="_blank" rel="noreferrer">here</a></span>
+  </li>
+  <li>
+    <img alt="trybe" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/trybe.png" />
+    <span><a href="https://www.betrybe.com/">Trybe</a>. Overall grade: <strong>100%</strong> [2021]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/Trybe" target="_blank" rel="noreferrer">here</a></span>
   </li>
 </ul>
 
@@ -45,6 +49,25 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/python.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/terminal.png" />
+<img align="left" alt="aws" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws.jpg" />
+<img align="left" alt="serverless" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/serverless.jpg" />
+<img align="left" alt="cubejs" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/cubejs.png" />
+
+#### AWS tools I'm currently working with
+
+<img align="left" alt="Simple Notification Service (sns)" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/sns.png" />
+<img align="left" alt="Simple Email Service (ses)" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/sed.svg" />
+<img align="left" alt="amplify" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/amplify.svg" />
+<img align="left" alt="cognito" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/cognito.svg" />
+<img align="left" alt="athena" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/athena.svg" />
+<img align="left" alt="cloud_front" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/cloud_front.svg" />
+<img align="left" alt="cloud_watch" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/cloud_watch.svg" />
+<img align="left" alt="s3" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/s3.svg" />
+<img align="left" alt="dynamodb" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/dynamodb.svg" />
+<img align="left" alt="sdk" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/sdk.svg" />
+<img align="left" alt="api_gateway" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/api_gateway.svg" />
+<img align="left" alt="route53" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/route53.svg" />
+
 
 <br />
 
