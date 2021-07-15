@@ -26,7 +26,7 @@
   </li>
   <li>
     <img alt="trybe" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/trybe.png" />
-    <span><a href="https://www.betrybe.com/">Trybe</a>. Overall grade: <strong>100%</strong> [2021]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/Trybe" target="_blank" rel="noreferrer">here</a></span>
+    <span><a href="https://www.betrybe.com/">Trybe</a>. Overall grade: <strong>100%</strong> [2020-2021]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/Trybe" target="_blank" rel="noreferrer">here</a></span>
   </li>
 </ul>
 
@@ -56,7 +56,7 @@
 #### AWS tools I'm currently working with
 
 <img align="left" alt="Simple Notification Service (sns)" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/sns.png" />
-<img align="left" alt="Simple Email Service (ses)" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/sed.svg" />
+<img align="left" alt="Simple Email Service (ses)" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/ses.svg" />
 <img align="left" alt="amplify" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/amplify.svg" />
 <img align="left" alt="cognito" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/cognito.svg" />
 <img align="left" alt="athena" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/athena.svg" />
