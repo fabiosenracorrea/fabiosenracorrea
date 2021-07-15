@@ -45,6 +45,9 @@
 <img align="left" alt="Jest" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/jest.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/mongodb.png" />
+
+<br />
+
 <img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/git.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/python.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
@@ -52,6 +55,8 @@
 <img align="left" alt="aws" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws.jpg" />
 <img align="left" alt="serverless" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/serverless.jpg" />
 <img align="left" alt="cubejs" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/cubejs.png" />
+
+<br />
 
 #### AWS tools I'm currently working with
 
