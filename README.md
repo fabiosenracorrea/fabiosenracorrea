@@ -5,7 +5,7 @@
 ### About me
 
 - 🧔🏽 I'm 26 years old, brazilian living in Belo Horizonte
-- 🌱 I’m currently studying to because a Certified [AWS](https://aws.amazon.com/) developer
+- 🌱 I’m currently studying to become a Certified [AWS](https://aws.amazon.com/) developer
 - 👯 I’m currently a Full Stack developer at @offerwise
 - ⚡ Fast learner, advocate of **Clean Code**, **SOLID** practices and **Agile Development**
 
