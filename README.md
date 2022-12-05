@@ -12,7 +12,7 @@
 ### Certifications
 
 <p align="center">
-  <img alt="Visual Studio Code" width="56px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/developer-associate.png" />
+  <img alt="Visual Studio Code" width="144px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/developer-associate.png" />
 </p>
 
 
@@ -43,9 +43,11 @@
 <img align="left" alt="serverless" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/serverless.jpg" />
 <img align="left" alt="cubejs" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/cubejs.png" />
 
-<br />
+<p>
+  <br />
+</p>
 
-#### AWS tools I'm currently working with
+### AWS tools I'm currently working with
 
 <img align="left" alt="Simple Notification Service (sns)" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/sns.png" />
 <img align="left" alt="Simple Email Service (ses)" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/ses.svg" />
@@ -60,8 +62,9 @@
 <img align="left" alt="api_gateway" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/api_gateway.svg" />
 <img align="left" alt="route53" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/aws/route53.svg" />
 
-
-<br />
+<p>
+  <br />
+</p>
 
 ### Graduation
 
