@@ -66,28 +66,6 @@
   <br />
 </p>
 
-### Graduation
-
-<ul>
-  <li>
-    <img alt="ufmg" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/ufmg.png" />
-    <span>Chemical Engineering at Universidade Federal de Minas Gerais (UFMG). Overall grade: 76% [2014-2019]</span>
-  </li>
-  <li>
-    <img alt="harvard" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/harvard.png" />
-    <span>Harvard's <a href="https://cs50.harvard.edu/x/2020/">CS50</a>. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/CS50" target="_blank" rel="noreferrer">here</a></span>
-  </li>
-  <li>
-    <img alt="rocketseat" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/rocketseat.jpeg" />
-    <span>Rocketseat's <a href="https://rocketseat.com.br/">GoStack</a>. Overall grade: <strong>100%</strong> [2020]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/Rocketseat_go_stack" target="_blank" rel="noreferrer">here</a></span>
-  </li>
-  <li>
-    <img alt="trybe" width="24px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/trybe.png" />
-    <span><a href="https://www.betrybe.com/">Trybe</a>. Overall grade: <strong>100%</strong> [2020-2021]. Certificate and projects: <a href="https://github.com/fabiosenracorrea/Trybe" target="_blank" rel="noreferrer">here</a></span>
-  </li>
-</ul>
-
-<br />
 
 ### Contact Me!
 
