@@ -4,7 +4,7 @@
 
 ### About me
 
-- 🧔🏽 I'm 27 years old, brazilian living in Belo Horizonte
+- 🧔🏽 I'm 28 years old, brazilian living in Belo Horizonte
 - 🌱 Certified [AWS](https://aws.amazon.com/) developer associate - [badge](https://www.credly.com/badges/627d2247-956f-4178-bfa9-94481d8b2ba1/public_url)
 - 👯 Full Stack developer at @offerwise
 - ⚡ Fast learner, advocate of **Clean Code**, **SOLID** practices and **Agile Development**
