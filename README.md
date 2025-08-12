@@ -1,7 +1,5 @@
 # Hi, I'm Fábio Corrêa 👋
 
-<img alt="Code Wars badge" width="100px" src="https://www.codewars.com/users/fabiosenracorrea/badges/micro" />
-
 ### About me
 
 - 🧔🏽 I'm 30 years old, brazilian living in Belo Horizonte
